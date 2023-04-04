@@ -1,5 +1,5 @@
 # MM-BSN: Self-Supervised Image Denoising for Real-World with Mutil-Mask based on Blind-Spot Network
-
+MM-BSN has been accepted by CVPR2023 UG2+ workshop and it will be published with the CVPR Workshop Proceedings. 
 ---
 
 ## Setup
@@ -54,8 +54,6 @@ python test.py -c SIDD -g 0 --pretrained ./ckpt/SIDD_MMBSN_020.pth --test_dir ./
 
 ## Training
 
-### Training
-
 ```
 usage: python train.py [-c CONFIG_NAME] [-g GPU_NUM] 
                        [-r RESUME] [-p PRETRAINED_CKPT] 
@@ -90,4 +88,4 @@ Also, you can control other detail experimental configurations (e.g. training lo
 
 
 ## Acknowledgement
- Part of our codes are adapted from [APBSN](https://github.com/wooseoklee4/AP-BSN).
+ Part of our codes are adapted from [AP-BSN](https://github.com/wooseoklee4/AP-BSN) and we are expressing gratitude for their work sharing.
