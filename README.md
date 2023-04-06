@@ -3,7 +3,12 @@ MM-BSN has been accepted by CVPRw 2023.
 ---
 ## MM-BSN Architecture
 ![masks](./figs/big_f_try2.png)
-## Setup
+
+## Parameters
+|   __Models__   |                                         __SIDD Validation__                                         |__Parameters__ |
+|:----------:|:-----------------------------------------------------------------------------------------------:|:-------:|
+| AP-BSN |                                             35.91/0.870                                             |   3.7M   |
+| MM-BSN |                                             37.38/0.882                                             |   5.3M   |
 
 ### Requirements
 
@@ -87,11 +92,6 @@ Also, you can control other detail experimental configurations (e.g. training lo
 ## Evaluations
 ![masks](./figs/re.png)
 
-## Parameters
-|   __Models__   |                                         __SIDD Validation__                                         |__Parameters__ |
-|:----------:|:-----------------------------------------------------------------------------------------------:|:-------:|
-| AP-BSN |                                             35.91/0.870                                             |   3.7M   |
-| MM-BSN |                                             37.38/0.882                                             |   5.3M   |
 
 ## Acknowledgement
  Part of our codes are adapted from [AP-BSN](https://github.com/wooseoklee4/AP-BSN) and we are expressing gratitude for their work sharing.
