@@ -1,5 +1,5 @@
 # MM-BSN: Self-Supervised Image Denoising for Real-World with Mutil-Mask based on Blind-Spot Network
- 
+MM-BSN has been accepted in CVPRw 2023.
 ---
 
 ## Setup
@@ -83,9 +83,19 @@ part of Arguments in config SIDD.yaml:
 
 Also, you can control other detail experimental configurations (e.g. training loss, epoch, batch_size, etc.) in each of config file.
 
-### Mask types:
+### Evaluations
 ![masks](./figs/mask_shapes.png)
 
 
 ## Acknowledgement
  Part of our codes are adapted from [AP-BSN](https://github.com/wooseoklee4/AP-BSN) and we are expressing gratitude for their work sharing.
+ 
+## Cite
+@misc{zhang2023mmbsn,
+      title={MM-BSN: Self-Supervised Image Denoising for Real-World with Multi-Mask based on Blind-Spot Network}, 
+      author={Dan Zhang and Fangfang Zhou and Yuwen Jiang and Zhengming Fu},
+      year={2023},
+      eprint={2304.01598},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
