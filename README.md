@@ -84,7 +84,7 @@ part of Arguments in config SIDD.yaml:
 Also, you can control other detail experimental configurations (e.g. training loss, epoch, batch_size, etc.) in each of config file.
 
 ### Evaluations
-![masks](./figs/mask_shapes.png)
+![masks](./figs/re.png)
 
 
 ## Acknowledgement
