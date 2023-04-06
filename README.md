@@ -88,7 +88,7 @@ Also, you can control other detail experimental configurations (e.g. training lo
 ![masks](./figs/re.png)
 
 ## Parameters
-|   Models   |                                         SIDD Validation                                         |Parameters |
+|   __Models__   |                                         __SIDD Validation__                                         |__Parameters__ |
 |:----------:|:-----------------------------------------------------------------------------------------------:|:-------:|
 | AP-BSN |                                             35.91/0.870                                             |   3.7M   |
 | MM-BSN |                                             37.38/0.882                                             |   5.3M   |
