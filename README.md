@@ -1,5 +1,5 @@
 # MM-BSN: Self-Supervised Image Denoising for Real-World with Mutil-Mask based on Blind-Spot Network
-MM-BSN has been accepted by CVPRw 2023.
+[MM-BSN(arxiv version)](https://arxiv.org/abs/2304.01598) has been accepted by CVPRw 2023.
 ---
 
 ![masks](./figs/big_f_try2.png)
