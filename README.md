@@ -48,7 +48,7 @@ AP-BSN
 To test noisy images with pre-trained MM-BSN in gpu:0.
 
 ```
-python test.py -c SIDD -g 0 --pretrained ./ckpt/SIDD_MMBSN_020.pth --test_dir ./dataset/test_data
+python test.py -c SIDD -g 0 --pretrained ./ckpt/SIDD_MMBSN_o_a45.pth --test_dir ./dataset/test_data
 ```
 
 ---
