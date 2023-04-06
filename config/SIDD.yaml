@@ -13,7 +13,7 @@ model:
     bsn_num_module: 9
     DCL1_num: 2
     DCL2_num: 7
-    mask_type: 'o_r_c_sz_fsz_a45_a135_cha_fcha'
+    mask_type: 'o_a45' #e.g.: r/c/sz/fsz/a45/a135/cha/fcha
     
 model_input: [noisy] # e.g.) real_noisy, syn_noisy, clean
 
