@@ -12,7 +12,7 @@ Recent advances in deep learning have been pushing image denoising techniques to
 | AP-BSN |                                             35.91/0.870                                             |   3.7M   |
 | MM-BSN |                                             37.38/0.882                                             |   5.3M   |
 
-##Setup
+## Setup
 ### Requirements
 
 Our experiments are done with:
