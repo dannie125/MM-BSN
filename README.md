@@ -1,5 +1,5 @@
 # MM-BSN: Self-Supervised Image Denoising for Real-World with Mutil-Mask based on Blind-Spot Network
-[MM-BSN(arxiv version)](https://arxiv.org/abs/2304.01598) has been accepted by CVPRw 2023.
+[MM-BSN(arxiv](https://arxiv.org/abs/2304.01598) has been accepted by CVPRw 2023.
 ---
 
 ![masks](./figs/big_f_try2.png)
@@ -100,11 +100,11 @@ Also, you can control other detail experimental configurations (e.g. training lo
  Part of our codes are adapted from [AP-BSN](https://github.com/wooseoklee4/AP-BSN) and we are expressing gratitude for their work sharing.
  
 ## Cite
-@misc{zhang2023mmbsn,
-      title={MM-BSN: Self-Supervised Image Denoising for Real-World with Multi-Mask based on Blind-Spot Network}, 
-      author={Dan Zhang and Fangfang Zhou and Yuwen Jiang and Zhengming Fu},
-      year={2023},
-      eprint={2304.01598},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Zhang_2023_CVPR,
+    author    = {Zhang, Dan and Zhou, Fangfang and Jiang, Yuwen and Fu, Zhengming},
+    title     = {MM-BSN: Self-Supervised Image Denoising for Real-World With Multi-Mask Based on Blind-Spot Network},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {4188-4197}
 }
